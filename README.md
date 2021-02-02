@@ -22,6 +22,6 @@ That ended in 2020:exclamation:
 
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/igoraraujocruzz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-&nbsp; <a href="https://www.instagram.com/igoraraujocruzz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/igor-araujo-cruz-84a89111b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp; <a href="mailto:igoraraujocruzz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seu_email" /></a>
 </p>
