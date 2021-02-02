@@ -1,6 +1,4 @@
 <h3 align="center"> Hi! I'm Igor. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<h3 align="center"><img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300"></h2>
-
 
 ### About Me
 What I can tell you now is that: Through programming I am trying to change my life, my family. I was always a technology buff, but I never dedicated myself enough to grow, to be better.
