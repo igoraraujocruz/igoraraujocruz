@@ -35,9 +35,44 @@ Desde 2020 focado em estudar programação, dedicado ao extremo.
 
 </br>
 <div align="center">
-  <h4 align="center">Projetos que eu considero interessante 🤖:</h4>
-  <a href=“http://exemplo.com/“><p>aeeeeee</p></a>
-</div>  
+  <h4 align="center">Caso queira me avaliar, recomendo esses projetos🤖 :</h4>
+   </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/worldtrip"><b>WorldTrip</b></a>
+  <div>
+    Projeto que traz alguns curiosidade de algumas regiões do mundo.
+    Utilizando Next e ChackraUi.
+    O tempo que o ChakraUi nos faz economizar é inacreditável, uma ótima experiência.
+  </div> 
+   </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/gcbDoctor"><b>GCB Doctor</b></a>
+  <div>
+    Projeto Backend que faz cadastros de médicos.
+    O que eu achei mais interessante nesse projeto é que é possível buscar médicos tanto por especialidades, quanto por região.
+  </div>
+  </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/zaytechBackend"><b>Zaytech</b></a>
+  <div>
+    Projeto Backend que faz registro de pedidos.
+    Uma feature interessante que foi incluída é o Refresh Token.
+  </div>
+   </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/zaytech"><b>Zaytech</b></a>
+  <div>
+    Frontend do projeto Zaytech, utilizando Next e ChakraUi
+   A facilidade de configurar responsividade no Chakra surpreende.
+  </div> 
+</div>
+</div>
+ </br>
+  </br>
 
 <h4 align="center">Fique a vontade pra entrar em contato, networking sempre é bom  😁</h4>
 
