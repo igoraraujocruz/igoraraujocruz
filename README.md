@@ -36,7 +36,7 @@ Desde 2020 focado em estudar programação, dedicado ao extremo.
 </br>
 <div align="center">
   <h4 align="center">Projetos que eu considero interessante 🤖:</h4>
-  [gcbDoctor](https://github.com/igoraraujocruz/gcbDoctor)
+  <a href=“http://exemplo.com/“><p>aeeeeee</p></a>
 </div>  
 
 <h4 align="center">Fique a vontade pra entrar em contato, networking sempre é bom  😁</h4>
