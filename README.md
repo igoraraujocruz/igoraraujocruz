@@ -6,8 +6,8 @@ That ended in 2020:exclamation:
 
 <div align="center">
   <a href="https://github.com/igoraraujocruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h3>🛠 Tech Stack</h3>
