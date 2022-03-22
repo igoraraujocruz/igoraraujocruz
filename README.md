@@ -4,6 +4,12 @@
 What I can tell you now is that: Through programming I am trying to change my life, my family. I was always a technology buff, but I never dedicated myself enough to grow, to be better.
 That ended in 2020:exclamation:
 
+<div align="center">
+  <a href="https://github.com/igoraraujocruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <h3>🛠 Tech Stack</h3>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
