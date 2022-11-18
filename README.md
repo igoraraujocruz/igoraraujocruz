@@ -1,15 +1,9 @@
 <div align="center">
   <h4>Olá!</h4>
-  <h5>Eu sou o Igor, e vou te contar um pedaço da minha história pessoal e profissional, então... "simbora"</h5>
   <img height="180em" src="https://media.giphy.com/media/3oriOiizS4Pmofj46A/giphy.gif"/>
+  <p>Me preparando a cada dia para atender melhor a sua empresa ou o seu projeto.</p>
+  <p><strong>Chega junto e me chame pra trocar uma ideia :nerd_face:</strong></p>
 </div>
-
-</br>
-Por ter trabalhado vários anos na área da saúde como atendente, sei muito bem como me relacionar com as pessoas.
-Quero ajudar meus amigos, família com tecnologia. Seja no mercadinho de um amigo, no salão da minha tia, ou com um amigo que presta serviço de refrigeração. Sei que é possível levar um pedaço desse mundo que tanto gosto que é a programação.
-
-</br></br>
-Desde 2020 focado em estudar programação, dedicado ao extremo.
 
 <div align="center">
   <a href="https://github.com/igoraraujocruz">
@@ -35,7 +29,25 @@ Desde 2020 focado em estudar programação, dedicado ao extremo.
 
 </br>
 <div align="center">
-  <h4 align="center">Caso queira me avaliar, recomendo esses projetos🤖 :</h4>
+  <h4 align="center">Meus projetos 🤖 :</h4>
+   </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/snap-backend"><b>Snap - Backend</b></a>
+  <div>
+    Backend do projeto Snap. O Snap é um projeto para gestão de pontos de produtos, para cada produto comprado, você acumula pontos que pode ser trocado por outros produtos. Neste projeto é possível cadastrar clientes, usuários e produtos.
+  Possui também: Permissões de usuários, Refresh Token.
+  Eu explico melhor sobre todo esse projeto no linkedin, confere lá :wink:: <a href="https://www.linkedin.com/posts/igor-araujo-cruz-84a89111b_nodejs-nextjs-backend-activity-6992530643217735680--bRu?utm_source=share&utm_medium=member_desktop"><b>Publicação</b></a>
+  </div> 
+   </br>
+  </br>
+  
+  <a href="https://github.com/igoraraujocruz/snap-frontend"><b>Snap - Frontend</b></a>
+  <div>
+    Frontend do projeto Snap. O Snap é um projeto para gestão de pontos de produtos, para cada produto comprado, você acumula pontos que pode ser trocado por outros produtos. Neste projeto é possível cadastrar clientes, usuários e produtos.
+  Possui também: Permissões de usuários, Refresh Token.
+  Eu explico melhor sobre todo esse projeto no linkedin, confere lá :wink:: <a href="https://www.linkedin.com/posts/igor-araujo-cruz-84a89111b_nodejs-nextjs-backend-activity-6992530643217735680--bRu?utm_source=share&utm_medium=member_desktop"><b>Publicação</b></a>
+  </div> 
    </br>
   </br>
   
@@ -74,7 +86,7 @@ Desde 2020 focado em estudar programação, dedicado ao extremo.
  </br>
   </br>
 
-<h4 align="center">Fique a vontade pra entrar em contato, networking sempre é bom  😁</h4>
+<h4 align="center">Fique a vontade pra entrar em contato, networking é sempre bom  😁</h4>
 
 <p align="center">  
 &nbsp; <a href="https://www.linkedin.com/in/igor-araujo-cruz-84a89111b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
