@@ -1,11 +1,4 @@
 <div align="center">
-  <h4>Olá!</h4>
-  <img height="180em" src="https://media.giphy.com/media/3oriOiizS4Pmofj46A/giphy.gif"/>
-  <p>Me preparando a cada dia para atender melhor a sua empresa ou o seu projeto.</p>
-  <p><strong>Chega junto e me chame pra trocar uma ideia :nerd_face:</strong></p>
-</div>
-
-<div align="center">
   <a href="https://github.com/igoraraujocruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dark"/>
