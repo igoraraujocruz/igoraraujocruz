@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://github.com/igoraraujocruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  </br>
-  </br>
-
-<div align="center">
   <h3>🛠 Tech Stack</h3>
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
