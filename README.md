@@ -29,7 +29,7 @@
 
 </br>
 <div align="center">
-  <h4 align="center">Meus projetos 🤖 :</h4>
+  <h4 align="center">Alguns projetos 🤖 :</h4>
    </br>
   </br>
   
@@ -68,19 +68,6 @@
   </br>
   </br>
   
-  <a href="https://github.com/igoraraujocruz/zaytechBackend"><b>Zaytech</b></a>
-  <div>
-    Projeto Backend que faz registro de pedidos.
-    Uma feature interessante que foi incluída é o Refresh Token.
-  </div>
-   </br>
-  </br>
-  
-  <a href="https://github.com/igoraraujocruz/zaytech"><b>Zaytech</b></a>
-  <div>
-    Frontend do projeto Zaytech, utilizando Next e ChakraUi
-   A facilidade de configurar responsividade no Chakra surpreende.
-  </div> 
 </div>
 </div>
  </br>
